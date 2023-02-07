@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Em busca de trabalho em desenvolvimento front-end
-- 🌱 Estudando javascript
+- 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela74&show_icons=true&theme=radical)](https://github.com/Gabriela74/github-readme-stats)
